@@ -1,0 +1,4 @@
+D:\Projects\JenkinProject\JenkinProject\bin\Debug\JenkinProject.exe
+D:\Projects\JenkinProject\JenkinProject\bin\Debug\JenkinProject.pdb
+D:\Projects\JenkinProject\JenkinProject\obj\x86\Debug\JenkinProject.exe
+D:\Projects\JenkinProject\JenkinProject\obj\x86\Debug\JenkinProject.pdb
